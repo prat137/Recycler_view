@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Recycler_view</string>
+    <string-array name="questions">
+        <item>"Question 1"</item>
+        <item>"Question 2"</item>
+        <item>"Question 3"</item>
+        <item>"Question 4"</item>
+        <item>"Question 5"</item>
+        <item>"Question 6"</item>
+        <item>"Question 7"</item>
+        <item>"Question 8"</item>
+        <item>"Question 9"</item>
+        <item>"Question 10"</item>
+        <item>"Question 11"</item>
+        <item>"Question 12"</item>
+        <item>"Question 13"</item>
+        <item>"Question 14"</item>
+        <item>"Question 15"</item>
+        <item>"Question 16"</item>
+        <item>"Question 17"</item>
+        <item>"Question 18"</item>
+        <item>"Question 19"</item>
+        <item>"Question 20"</item>
+        <item>"Question 21"</item>
+
+    </string-array>
+</resources>
+
